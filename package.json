@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "history": "^4.7.2",
-    "log4js": "^4.0.2",
+    "log4js": "^6.4.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-router": "^4.3.1",
